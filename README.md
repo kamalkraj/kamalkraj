@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**kamalkraj/kamalkraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![kamalkraj's github stats](https://github-readme-stats.vercel.app/api?username=kamalkraj&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
